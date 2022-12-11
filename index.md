@@ -18,6 +18,8 @@
 
 - [Tips and Techniques](https://docs.google.com/document/d/1GhC1jVs2VNk0w0bXr259WTqqj0pV2DRXYhm9381ZHOM/edit?usp=sharing) on Data Optimization to Contorlling Cost 
 
+---
+
 ### Articles 
 Check out my [medium.com](https://medium.com/@nouraitani29) - Previoulsy published under nourablogs
 
