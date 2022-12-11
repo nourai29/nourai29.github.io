@@ -1,10 +1,9 @@
 title: Noura Itani
-logo: "/profile_picture.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/profile_picture.jpeg?raw=true" 
+description: > 
   Data & Product at noon.com
   <br><br>
   Redefining the selling and buying experience with data-driven digital solutions
   <br><br>
-  <a href="https://www.linkedin.com/in/noura-itani/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/noura-itani/">View My LinkedIn Profile</a>   
 theme: jekyll-theme-minimal
